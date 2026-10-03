@@ -87,8 +87,8 @@
           "title": "EdgeEver",
           "href": "https://edgever.201573.xyz/",
           "description": "EdgeEver · 边缘设备管理与工具集。",
-          "icon": "",
-          "useDefaultIcon": true,
+          "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/icon_edgever_1791033465.svg",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
@@ -96,8 +96,8 @@
           "title": "GitBase",
           "href": "https://gitbase.201573.xyz/",
           "description": "免数据库的动态网站 CMS，内容存 GitHub。",
-          "icon": "",
-          "useDefaultIcon": true,
+          "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/icon_gitbase_1791033468.ico",
+          "useDefaultIcon": false,
           "enabled": true
         },
         {
