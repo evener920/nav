@@ -6,7 +6,17 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "video_1791034522027_ctfile",
+          "title": "历史学习资料（城通网盘）",
+          "href": "https://url98.ctfile.com/d/1530198-163480894-1349c2?p=1014",
+          "description": "城通网盘分享，需访问码/登录后下载。",
+          "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/icon_ctfile_1791034519.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
