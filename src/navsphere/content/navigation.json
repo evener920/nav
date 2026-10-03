@@ -6,7 +6,17 @@
       "icon": "Folder",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1791021833587_ukqyapip9",
+          "title": "Inkstone",
+          "href": "https://inkstone.201573.xyz/",
+          "description": "A private, self-hosted Markdown notebook built on Cloudflare.",
+          "icon": "/assets/favicon_1791021820397.png",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
