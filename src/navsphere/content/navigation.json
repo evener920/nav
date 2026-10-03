@@ -8,15 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1791021833587_ukqyapip9",
-          "title": "Inkstone",
-          "href": "https://inkstone.201573.xyz/",
-          "description": "A private, self-hosted Markdown notebook built on Cloudflare.",
-          "icon": "/assets/favicon_1791021820397.png",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
           "id": "site_1791029098095_0m753uvk6",
           "title": "knowbase",
           "href": "https://knowbase.bearblog.dev/",
@@ -33,7 +24,17 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1791021833587_ukqyapip9",
+              "title": "Inkstone",
+              "href": "https://inkstone.201573.xyz/",
+              "description": "A private, self-hosted Markdown notebook built on Cloudflare.",
+              "icon": "/assets/favicon_1791021820397.png",
+              "useDefaultIcon": false,
+              "enabled": true
+            }
+          ]
         }
       ]
     }
