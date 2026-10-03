@@ -15,6 +15,15 @@
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
+        },
+        {
+          "id": "site_1791032855411_2do201573",
+          "title": "Tadado2",
+          "href": "https://2do.201573.xyz/",
+          "description": "随时唤起的待办清单，Ctrl + Shift + Space 快速打开。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
         }
       ],
       "subCategories": [
