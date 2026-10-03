@@ -30,7 +30,7 @@
               "title": "Inkstone",
               "href": "https://inkstone.201573.xyz/",
               "description": "A private, self-hosted Markdown notebook built on Cloudflare.",
-              "icon": "/assets/favicon_1791021820397.png",
+              "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/img_1791031910466.png",
               "useDefaultIcon": false,
               "enabled": true
             }
