@@ -46,6 +46,108 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cat_1791033491488",
+      "title": "阅读与笔记",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1791033491488_reading",
+          "title": "Reading",
+          "href": "https://reading.201573.xyz/",
+          "description": "我的读书库 · 私人藏书阁。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1791033491488_kb_wiki",
+          "title": "KB Wiki",
+          "href": "https://kb.201573.xyz/",
+          "description": "Knowledge Wiki · 知识库与卡片盒。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_1791033491488",
+      "title": "工具与应用",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1791033491488_edgeever",
+          "title": "EdgeEver",
+          "href": "https://edgever.201573.xyz/",
+          "description": "EdgeEver · 边缘设备管理与工具集。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1791033491488_gitbase",
+          "title": "GitBase",
+          "href": "https://gitbase.201573.xyz/",
+          "description": "免数据库的动态网站 CMS，内容存 GitHub。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1791033491488_navi",
+          "title": "Navi",
+          "href": "https://navi.201573.xyz/",
+          "description": "墨径 · 站点导航。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1791033491488_garden",
+          "title": "Garden",
+          "href": "https://garden.201573.xyz/",
+          "description": "我的门户 · 数字花园。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_1791033491488",
+      "title": "服务与运维",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1791033491488_outline",
+          "title": "Outline",
+          "href": "https://outline.201573.xyz/",
+          "description": "自托管文档协作与知识库。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1791033491488_nas",
+          "title": "NAS",
+          "href": "https://nas.201573.xyz/",
+          "description": "群晖 NAS 管理界面。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     }
   ]
 }
