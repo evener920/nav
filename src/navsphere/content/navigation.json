@@ -26,7 +26,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "1d695e71-c753-41a6-a9fb-df8639470e51",
+          "title": "知识管理",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
