@@ -1,119 +1,236 @@
 {
   "navigationItems": [
     {
-      "id": "1791021731746",
-      "title": "我的网站",
+      "id": "cat_1792072156805_mxk0b1",
+      "title": "知识库与笔记",
       "icon": "Folder",
       "description": "",
       "enabled": true,
       "items": [
         {
-          "id": "site_1791029098095_0m753uvk6",
-          "title": "knowbase",
-          "href": "https://knowbase.bearblog.dev/",
-          "description": "访问 knowbase.bearblog.dev",
+          "id": "site_1792072156805_2azpryv1g",
+          "title": "KB Wiki",
+          "href": "https://kb.201573.xyz/",
+          "description": "知识库主站 · 卡片盒与 Wiki 聚合。",
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
         },
         {
-          "id": "site_1791032855411_2do201573",
-          "title": "Tadado2",
+          "id": "site_1792072156805_qdm2w2add",
+          "title": "Inkstone",
+          "href": "https://inkstone.201573.xyz/",
+          "description": "自托管 Markdown 笔记本 · 跑在 Cloudflare 上。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_d61y8a0qg",
+          "title": "WeKnora",
+          "href": "https://weknora.201573.xyz/",
+          "description": "RAG 知识库 · 检索、引用、追问一站闭环。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_aix5xufse",
+          "title": "Knowlege",
+          "href": "https://know.201573.xyz/",
+          "description": "卡片盒笔记 · Zettelkasten。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_og0w6313x",
+          "title": "Zettel",
+          "href": "https://zettel.201573.xyz/",
+          "description": "卡片盒主题站 · 笔记网络。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_p64iob9fo",
+          "title": "Notes",
+          "href": "https://notes.201573.xyz/",
+          "description": "学习笔记 · LearnData。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_76fuoi0dv",
+          "title": "knowbase",
+          "href": "https://knowbase.bearblog.dev/",
+          "description": "BearBlog 卡片盒。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_1792072156805_r2o0y3",
+      "title": "阅读与文库",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1792072156805_oyz97uher",
+          "title": "读者",
+          "href": "https://reader.201573.xyz/",
+          "description": "《读者》1981–2024 全文知识库。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_v9tk35oa0",
+          "title": "文章库",
+          "href": "https://articles.201573.xyz/",
+          "description": "文章归档与全文检索。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_hj14lg66p",
+          "title": "Reading",
+          "href": "https://reading.201573.xyz/",
+          "description": "读书库 · 私人藏书阁。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_knamkd8yz",
+          "title": "Inbox",
+          "href": "https://inbox.201573.xyz/",
+          "description": "收件箱 · 博客与稍后读。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_1792072156805_tzhd92",
+      "title": "创作与聚合",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1792072156805_93geqgpy6",
+          "title": "Space",
+          "href": "https://space.201573.xyz/",
+          "description": "Evener's Space · 四站聚合手记。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_jdves9g7p",
+          "title": "Garden",
+          "href": "https://garden.201573.xyz/",
+          "description": "数字花园 · 自动收录与双向链接。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_rhery7zvv",
+          "title": "inBoxCard",
+          "href": "https://cards.201573.xyz/",
+          "description": "知识卡片 · 剪藏成卡。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_c8kcve9pg",
+          "title": "书简",
+          "href": "https://shujian.201573.xyz/",
+          "description": "书简 · 读书笔记。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_1792072156805_w8u4k7",
+      "title": "工具与效率",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1792072156805_uklfoemaw",
+          "title": "墨径导航",
+          "href": "https://nav.201573.xyz/",
+          "description": "NavSphere · 本站。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_m3a469ds6",
+          "title": "墨径 · 旧版",
+          "href": "https://navi.201573.xyz/",
+          "description": "soulnav 站点导航。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_ssx4wbcdu",
+          "title": "Tadado",
           "href": "https://2do.201573.xyz/",
           "description": "随时唤起的待办清单，Ctrl + Shift + Space 快速打开。",
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
-        }
-      ],
-      "subCategories": [
-        {
-          "id": "1d695e71-c753-41a6-a9fb-df8639470e51",
-          "title": "知识管理",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1791021833587_ukqyapip9",
-              "title": "Inkstone",
-              "href": "https://inkstone.201573.xyz/",
-              "description": "A private, self-hosted Markdown notebook built on Cloudflare.",
-              "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/img_1791031957243.png",
-              "useDefaultIcon": false,
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cat_1791033491488",
-      "title": "阅读与笔记",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1791033491488_reading",
-          "title": "Reading",
-          "href": "https://reading.201573.xyz/",
-          "description": "我的读书库 · 私人藏书阁。",
-          "icon": "",
-          "useDefaultIcon": true,
-          "enabled": true
         },
         {
-          "id": "site_1791033491488_kb_wiki",
-          "title": "KB Wiki",
-          "href": "https://kb.201573.xyz/",
-          "description": "Knowledge Wiki · 知识库与卡片盒。",
-          "icon": "",
-          "useDefaultIcon": true,
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "cat_1791033491488",
-      "title": "工具与应用",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1791033491488_edgeever",
-          "title": "EdgeEver",
-          "href": "https://edgever.201573.xyz/",
-          "description": "EdgeEver · 边缘设备管理与工具集。",
-          "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/icon_edgever_1791033465.svg",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "site_1791033491488_gitbase",
+          "id": "site_1792072156805_hkroeybme",
           "title": "GitBase",
           "href": "https://gitbase.201573.xyz/",
-          "description": "免数据库的动态网站 CMS，内容存 GitHub。",
-          "icon": "https://raw.githubusercontent.com/evener920/nav/main/public/assets/icon_gitbase_1791033468.ico",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "site_1791033491488_navi",
-          "title": "Navi",
-          "href": "https://navi.201573.xyz/",
-          "description": "墨径 · 站点导航。",
+          "description": "免数据库动态网站 CMS · 内容存 GitHub。",
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
         },
         {
-          "id": "site_1791033491488_garden",
-          "title": "Garden",
-          "href": "https://garden.201573.xyz/",
-          "description": "我的门户 · 数字花园。",
+          "id": "site_1792072156805_rzzhm1d2y",
+          "title": "EdgeEver",
+          "href": "https://edgever.201573.xyz/",
+          "description": "边缘设备管理与工具集。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_32fu44vfq",
+          "title": "Archive",
+          "href": "https://archive.201573.xyz/",
+          "description": "HTML 归档库。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_6mxhepzag",
+          "title": "Chat",
+          "href": "https://chat.201573.xyz/",
+          "description": "聊天。",
           "icon": "",
           "useDefaultIcon": true,
           "enabled": true
@@ -122,14 +239,23 @@
       "subCategories": []
     },
     {
-      "id": "cat_1791033491488",
+      "id": "cat_1792072156805_f1mt19",
       "title": "服务与运维",
       "icon": "Folder",
       "description": "",
       "enabled": true,
       "items": [
         {
-          "id": "site_1791033491488_outline",
+          "id": "site_1792072156805_ougq7rj3e",
+          "title": "Console",
+          "href": "https://console.201573.xyz/",
+          "description": "管理控制台 · Access 防护。",
+          "icon": "",
+          "useDefaultIcon": true,
+          "enabled": true
+        },
+        {
+          "id": "site_1792072156805_qu7zkfu1o",
           "title": "Outline",
           "href": "https://outline.201573.xyz/",
           "description": "自托管文档协作与知识库。",
@@ -138,7 +264,7 @@
           "enabled": true
         },
         {
-          "id": "site_1791033491488_nas",
+          "id": "site_1792072156805_9imiytmmf",
           "title": "NAS",
           "href": "https://nas.201573.xyz/",
           "description": "群晖 NAS 管理界面。",
